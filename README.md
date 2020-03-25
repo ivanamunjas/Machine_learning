@@ -2,7 +2,7 @@
 
 Machine learning algorithms implementation. The following folders contain following algorithms:
 
-**Domaci_1** - Linear regression, Ridge regularization, Lasso regulariization, Locally weighted linear regression, Polynomial regression
+**Domaci_1** - Linear regression, Ridge regularization, Lasso regularization, Locally weighted linear regression, Polynomial regression
 
 **Domaci_2** - Logistic regression, Softmax regression, Naive Bayes classifier, Gaussian Discriminant Analysis
 
