@@ -8,6 +8,6 @@ Machine learning algorithms implementation. The following folders contain follow
 
 **Domaci_3** - Support Vector Machine with Linear and Gaussian kernel
 
-**Domaci_4** - Experimenting with random forest and gradient boosting classifier parameters with random grid search and grid search
+**Domaci_4** - Experimenting with random forests' and gradient boosting classifiers' parameters with random grid search and grid search
 
 **Domaci_5** - Reinforcement learning
